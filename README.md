@@ -17,7 +17,6 @@ Application desktop de gestion universitaire intelligente développée en C++ av
 - SVN (versioning académique)
 
 ## Aperçu
-*(captures à ajouter dans /docs/screenshots)*
 
 ## Build
 Projet développé avec **Qt Creator**.
