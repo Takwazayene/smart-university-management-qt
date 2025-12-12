@@ -20,7 +20,7 @@ Application desktop de gestion universitaire intelligente développée en C++ av
 
 Les captures d’écran sont disponibles dans `docs/screenshots`.
 
-![Exemple interface](docs/screenshots/menu.png)
+![Exemple interface](docs/screenshots/menu.PNG)
 
 ## Build
 Projet développé avec **Qt Creator**.
